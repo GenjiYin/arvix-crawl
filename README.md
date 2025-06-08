@@ -4,4 +4,6 @@
 1. 在代码第8行的proxy参数后面配置代理, 代理格式为"http://xxx.x.x.x: port"
 2. 在代码的第54行填写你要爬取的日期
 
-![Uploading image.png…]()
+<div style="display: flex; justify-content: space-between;", align=center>
+    <img src="/figure/效果.png" alt="Image 1" style="width: 45%;"/>
+</div>
