@@ -5,7 +5,7 @@ import requests
 from lxml import etree
 
 class paper_crawl:
-    def __init__(self, date, proxy='http://127.0.0.1:7890'):
+    def __init__(self, date, proxy='http://xxx.x.x.x:xxxx'):
         self.date = date
         self.proxies = {'http': proxy, 'https': proxy}
         self.reference = 'https://arxiv.org'
